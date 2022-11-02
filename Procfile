@@ -1,1 +1,1 @@
-worker: python kurspy.py
+worker: python kurs.py
