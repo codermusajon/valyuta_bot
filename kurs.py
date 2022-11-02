@@ -1,8 +1,5 @@
-from imaplib import Commands
-from turtle import end_fill
 import requests
 from bs4 import BeautifulSoup as BS
-import lxml
 from deep_translator import *
 from telegram import InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler
